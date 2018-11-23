@@ -2,7 +2,8 @@
 import copy
 
 import numpy as np
-
+import sys
+sys.path.append("/home/wuweijia/GitHub/gps/build/lib")
 import mjcpy
 
 from gps.agent.agent import Agent
