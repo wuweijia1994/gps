@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 52386, type 6.
+
+Issued to Ze Tian <tianz17@uw.edu>.
+
+Expires August 9, 2019.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_me2N90e53Vpv_K4S6dB0vn6116n0117
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+463788ec94c3270e9417e6ced7254d10da0bbb7c6546d9293586e083f2906bb4
+681ef51958a18217d092e0ff1f607e981a2e6d882df4d8719fd59d3ba9cdb144
+1be7bfe8ccde9cf0ae0c8f86f39b4a8d5453af4824c46162bea3edcd493088bf
+9ecfdef84c448ec09e17154fe340e439db9e992a02a1b3ea6464d26eeff79d73
+bee9e2961f5377134a50fdfb4133bd244f958701069132ba5c5398fb93035ab1
+8fc1e71369b75ad53299259b1b2de7e7cb4f85bb607fe53a2dc4276f96950fb5
+18a534cd29eba65d3170bacdcd76ff8349833c3d6d15037d6d6fe992f2db4e8a
+d754f181bc293af689182665e0a957a7ac62aef905fb4d23102dd9e5184cd069
